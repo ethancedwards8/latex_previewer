@@ -1,6 +1,6 @@
 <?php
 
-namespace OCA\LaTeXPreviewer\Tests\Integration\Controller;
+namespace OCA\LatexPreviewer\Tests\Integration\Controller;
 
 use OCP\AppFramework\App;
 use Test\TestCase;

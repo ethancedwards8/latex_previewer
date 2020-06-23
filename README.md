@@ -1,4 +1,4 @@
-# La Te X Previewer
+# Latex Previewer
 Place this app in **nextcloud/apps/**
 
 ## Building the app

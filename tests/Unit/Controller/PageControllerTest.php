@@ -1,12 +1,12 @@
 <?php
 
-namespace OCA\LaTeXPreviewer\Tests\Unit\Controller;
+namespace OCA\LatexPreviewer\Tests\Unit\Controller;
 
 use PHPUnit_Framework_TestCase;
 
 use OCP\AppFramework\Http\TemplateResponse;
 
-use OCA\LaTeXPreviewer\Controller\PageController;
+use OCA\LatexPreviewer\Controller\PageController;
 
 
 class PageControllerTest extends PHPUnit_Framework_TestCase {

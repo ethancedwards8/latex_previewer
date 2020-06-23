@@ -1,5 +1,5 @@
 <?php
-namespace OCA\LaTeXPreviewer\Controller;
+namespace OCA\LatexPreviewer\Controller;
 
 use OCP\IRequest;
 use OCP\AppFramework\Http\TemplateResponse;

@@ -2,23 +2,23 @@
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
     <id>latexpreviewer</id>
-    <name>La Te X Previewer</name>
+    <name>Latex Previewer</name>
     <summary>Compile LaTeX in your browser and view it!</summary>
     <description><![CDATA[Upload or create a LaTeX file to edit and view it in your browser!]]></description>
     <version>0.0.1</version>
     <licence>agpl</licence>
     <author mail="ethancarteredwards@outlook.com" homepage="http://ethancedwards.com">Ethan Carter Edwards</author>
-    <namespace>LaTeXPreviewer</namespace>
+    <namespace>LatexPreviewer</namespace>
     <category>files</category>
     <category>office</category>
     <category>tools</category>
     <bugs>https://github.com/ethancedwards8/latex_previewer/issues</bugs>
     <dependencies>
-        <nextcloud min-version="12" max-version="12"/>
+        <nextcloud min-version="15" max-version="15"/>
     </dependencies>
     <navigations>
         <navigation>
-            <name>La Te X Previewer</name>
+            <name>Latex Previewer</name>
             <route>latexpreviewer.page.index</route>
         </navigation>
     </navigations>
