@@ -1,0 +1,15 @@
+{
+    "name": "La Te X Previewer",
+    "description": "Compile LaTeX in your browser and view it!",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Ethan Carter Edwards"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
